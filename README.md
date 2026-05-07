@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @AmanSemwalHere
-- 👀 I’m interested in web development work...
-- 🌱 I’m currently learning web development and python language...
-- 💞️ I’m looking to collaborate on something creative...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋 I'm Aman
 
-<!---
-AmanSemwalHere/AmanSemwalHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+-  B.Tech CSE Student
+-  Data Analytics & Dashboard Development
+-  Programming in Python
+-  Skilled in Python, NumPy, Pandas, Matplotlib & Power BI
+-  Web Development (HTML and CSS)
+-  Interested in Business Intelligence and Data Visualization
+-  Currently building real-world analytics projects
+
+---
+
+##  Technologies & Tools
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
+- SQL
+- Git & GitHub
+
+---
+
+##  Featured Project
+### Sales & Customer Analytics Dashboard
+Interactive business analytics project using Python and Power BI featuring:
+- Sales Analysis
+- Customer Segmentation
+- Product Performance
+- RFM Analysis
+
+ Check my repositories below for more projects.
+
+---
+
+## 📫 Connect With Me
+- GitHub: @AmanSemwalHere
